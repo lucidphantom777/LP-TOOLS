@@ -783,6 +783,7 @@ def btc_1():
          btc_1()
 
     elif choice == "2":
+         os.system("cd Wallen-gen
          os.system("./walletgen.sh")
 
     else:
